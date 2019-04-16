@@ -1,6 +1,7 @@
 /* Copyright 2019 Emily Lostaunau */
 /**
  * Overlay
+ * @desc Functionality for the overlay util tool on the page.
  * @author Emily Lostaunau
  */
 

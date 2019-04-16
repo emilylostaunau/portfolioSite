@@ -1,6 +1,7 @@
 /* Copyright 2019 Emily Lostaunau */
 /**
  * Init
+ * @desc Initialize functionality for the page.
  * @author Emily Lostaunau
  */
 

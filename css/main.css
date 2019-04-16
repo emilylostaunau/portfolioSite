@@ -38,7 +38,7 @@ body::before{ content: 'emily lostaunau'; display: block; position: absolute; wi
     .section__jobTitle{ margin: 0; font-size: 10px; line-height: 14px; font-weight: 700; text-transform: uppercase; color: rgb( 0,0,0 ); }
     .section__ desc{ font-size: 13px; line-height: 16px; }
     .section__grid{ position: relative; display: grid; grid-template-columns: repeat( 5, 18% ); grid-auto-rows: 200px; grid-gap: 2%; margin-bottom: 70px; }
-        .section__gridItem{ width: 100%; height: 100%; background-repeat: no-repeat; background-position: 0 0; background-size: 200% auto; pointer: cursor; }
+        .section__gridItem{ width: 100%; height: 100%; background-repeat: no-repeat; background-position: 0 0; background-size: 200% auto; cursor: pointer; }
 
 
 #overlay{ position: fixed; display: flex; flex-direction: column; justify-content: center; align-items: center; top: 0; left: 0; width: 100%; height: 100%;

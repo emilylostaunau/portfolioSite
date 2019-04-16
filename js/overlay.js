@@ -5,7 +5,7 @@
  * @author Emily Lostaunau
  */
 
-overlay = ( function( overlay ){
+var overlay = ( function( overlay ){
 
     'use strict';
 

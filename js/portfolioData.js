@@ -5,8 +5,37 @@ var portfolioData = [
     {
         name    : 'Ranker',
         jobTitle: 'Senior Frontend Developer',
-        desc    : '... on its way!',
-        items   : []
+        desc    : 'As the key senior frontend developer on location for Ranker, my roles were vast one team. I was the goto person to communicate between teams and to junior developers, and also played a key role in a large majority of features for the site.<br><br>Working closely with Back-end and product teams, I helped to create a number of high profile features for the website.',
+        items   : [
+            {
+                desc    : 'Low level dropdown menu creation and user demographics data',
+                file    : 'portfolio/ranker/ranker-01.jpg'
+            },
+            {
+                desc    : 'Low level dropdown menu creation and user demographics data',
+                file    : 'portfolio/ranker/ranker-02.jpg'
+            },
+            {
+                desc    : 'User interests data collection',
+                file    : 'portfolio/ranker/ranker-03.jpg'
+            },
+            {
+                desc    : 'User interests data collection - storing saved selections',
+                file    : 'portfolio/ranker/ranker-04.jpg'
+            },
+            {
+                desc    : 'Low level utility DOM Recylcer and list trivia vote payoff',
+                file    : 'portfolio/ranker/ranker-05.jpg'
+            },
+            {
+                desc    : 'User rerank tool',
+                file    : 'portfolio/ranker/ranker-06.jpg'
+            },
+            {
+                desc    : 'Node tagged ranked content block',
+                file    : 'portfolio/ranker/ranker-07.jpg'
+            }
+        ]
     },
     {
         name    : 'EV Connect',

@@ -5,7 +5,7 @@ var portfolioData = [
     {
         name    : 'Ranker',
         jobTitle: 'Senior Frontend Developer',
-        desc    : 'As the key senior frontend developer on location for Ranker, my roles were vast one team. I was the goto person to communicate between teams and to junior developers, and also played a key role in a large majority of features for the site.<br><br>Working closely with Back-end and product teams, I helped to create a number of high profile features for the website.',
+        desc    : 'As the key senior frontend developer on location for Ranker, my roles were vast on our small team. I was the goto person to communicate between teams and to junior developers, and also played a key role in a large majority of features for the site.<br><br>Working closely with Back-end and product teams, I helped to create a number of high profile features for the website.',
         items   : [
             {
                 desc    : 'Low level dropdown menu creation and user demographics data',

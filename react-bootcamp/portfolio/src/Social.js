@@ -5,7 +5,6 @@ import SOCIAL_PROFILES from './data/socialProfiles';
 class SocialIcons extends Component{
 
     render(){
-        console.log( 'social', this.props.social);
         const { alt, image, link } = this.props.social;
         return(
             <a href={link}><img src={image} style={{ width: 20, height: 20 }} alt={alt}/></a>

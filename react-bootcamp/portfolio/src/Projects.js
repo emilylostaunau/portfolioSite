@@ -3,8 +3,6 @@ import PROJECTS from './data/projects';
 
 class Project extends Component {
     render() {
-        console.log( 'this.props', this.props );
-
         const { title, image, description, link } = this.props.project;
         return (
             <div style={{ display: 'inline-block', width: 300, margin: 5 }}>

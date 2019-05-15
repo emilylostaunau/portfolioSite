@@ -1,0 +1,25 @@
+Test cases for console. 
+
+directorySystem.create( 'apples' );
+
+directorySystem.create( 'honeycrisp', 'apples' );
+
+directorySystem.create( 'pink ladies', 'apples' );
+
+directorySystem.create( 'fiji', 'apples' );
+
+directorySystem.create( 'yummy', 'pink ladies' );
+
+directorySystem.create( 'sweet', 'pink ladies' );
+
+directorySystem.create( 'crispy', 'honeycrisp' );
+
+directorySystem.move( 'yummy', 'honeycrisp' );
+
+directorySystem.move( 'yummy', 'apples' );
+
+directorySystem.move( 'yummy' );
+
+directorySystem.remove( 'pink ladies' );
+
+directorySystem.remove( 'apples' );
